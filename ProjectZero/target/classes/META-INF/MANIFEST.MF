@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Jordan
+Class-Path: commons-lang3-3.8.1.jar ojdbc7-12.1.0.2.jar commons-codec-
+ 1.12.jar commons-dbcp2-2.6.0.jar commons-pool2-2.6.1.jar commons-logg
+ ing-1.2.jar log4j-1.2.17.jar
+Build-Jdk: 1.8.0_202
+Created-By: Maven Integration for Eclipse
+Main-Class: com.zero.Application
+
